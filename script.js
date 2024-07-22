@@ -8,7 +8,6 @@ const projects= [
     },
 
     {
-    	
     	imglink: "https://www.abc.net.au/reslib/201311/r1204239_15618807.jpg",
     	name:  "VIRUS PAGE",
     	link: "https://radik-ha.github.io/virus-bootstrap/"
