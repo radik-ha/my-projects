@@ -3,14 +3,17 @@
 	font-family: "Signika Negative", sans-serif;
 
 }
+
+#heading {
+	color: lightgreen;
+}
+
 .project {
 	background-color: lightgreen;	
 	border: 2px solid black;
 }
 
 .project h1 {
-}
-h1 {
 	color: lightgreen;
 	font-size: 4.5vw;
 	font-weight: bold;
