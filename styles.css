@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300..700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+* {
+	font-family: "Signika Negative", sans-serif;
+
+}
+.project {
+	background-color: lightgreen;	
+	border: 2px solid black;
+}
+
+.project h1 {
+}
+h1 {
+	color: lightgreen;
+	font-size: 4.5vw;
+	font-weight: bold;
+	margin-top: 0;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin-bottom: 2%;
+	box-shadow: 20px 20px 30px rgba(0,0,0,0.6);
+	filter: drop-shadow(10px 50px 20px lightgreen);
+	border-radius: 1rem;
+}
