@@ -49,7 +49,12 @@ const projects= [
     	imglink: "https://images.ctfassets.net/prxuf37q3ta2/6e2OK9Jr60JglYltKdyIDf/6582105ebe01bd5c32d3c7fb3055deb6/SB-36476_Flowers_dlp1858x1858-1.jpg?w=1024",
     	name: "FLOWERS PAGE",
     	link: ""
-    }
+    },
+    {
+	imglink: "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjc5LTEwMy14LmpwZw.jpg",
+	name: "DUALITIES",
+	link: "https://radik-ha.github.io/dualities/"
+
 ]
 
 function makeHtml(obj){
