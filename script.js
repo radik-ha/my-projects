@@ -20,41 +20,40 @@ const projects= [
     },
 
     {
-    	imglink: "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvZmwyNjAwNjMyMjYwNC1pbWFnZS1renhsdWpwNS5qcGc.jpg",
-    	name: "ANIMALS WEB",
-    	link: ""
-    },
-    {
     	imglink: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1sYuQFsQnxBAVr4KOUJWlxUfaRnxi1WX6KKThWCPVc2HBPowIvjNG1NE1X9my9NCtug&usqp=CAU",
     	name: "PLAY WITH IMAGE",
     	link:"https://radik-ha.github.io/play-with-image/"
     },
+	
     {
     	imglink: "https://img.fruugo.com/product/3/09/923192093_0340_0340.jpg",
     	name: "WEB PIANO",
     	link: "https://radik-ha.github.io/web-piano/"
     },
+	
     {
     	imglink: "https://storage.googleapis.com/pai-images/5452684911044eee857ded6e31e2447c.jpeg",
     	name: "SOUNDS OF ANIMALS",
     	link: "https://radik-ha.github.io/animals-sounds/"
     },
+	
     {
     	imglink: "https://static.vecteezy.com/system/resources/thumbnails/004/985/607/small_2x/glassmorphism-concept-login-page-with-frosted-glass-mobile-app-login-and-registration-user-interface-concept-blurred-registration-form-design-vector.jpg",
     	name: "LOGIN FORM",
     	link: "https://radik-ha.github.io/login-form/"
 
     },
+	
     {
     	imglink: "https://images.ctfassets.net/prxuf37q3ta2/6e2OK9Jr60JglYltKdyIDf/6582105ebe01bd5c32d3c7fb3055deb6/SB-36476_Flowers_dlp1858x1858-1.jpg?w=1024",
     	name: "FLOWERS PAGE",
-    	link: ""
+    	link: "https://radik-ha.github.io/flowers-page/"
     },
     {
 	imglink: "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjc5LTEwMy14LmpwZw.jpg",
 	name: "DUALITIES",
 	link: "https://radik-ha.github.io/dualities/"
-
+    }
 ]
 
 function makeHtml(obj){
