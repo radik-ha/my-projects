@@ -53,6 +53,12 @@ const projects= [
 	imglink: "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjc5LTEwMy14LmpwZw.jpg",
 	name: "DUALITIES",
 	link: "https://radik-ha.github.io/dualities/"
+    },
+
+    {
+	imglink: "https://brandlogos.net/wp-content/uploads/2013/03/mickey-mouse-disney-vector.png",
+	name: "CARTOON PAGE",
+	link: ""
     }
 ]
 
