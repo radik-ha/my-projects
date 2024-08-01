@@ -58,7 +58,7 @@ const projects= [
     {
 	imglink: "https://brandlogos.net/wp-content/uploads/2013/03/mickey-mouse-disney-vector.png",
 	name: "CARTOON PAGE",
-	link: ""
+	link: "https://radik-ha.github.io/cartoon-grid/"
     }
 ]
 
