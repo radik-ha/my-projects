@@ -14,7 +14,7 @@ const projects= [
     },
 
     {
-    	imglink: "https://www.kuvingsusa.com/cdn/shop/articles/077931d29bfc10af2a246d30f51907d7.jpg?v=1656108581",
+    	imglink: "https://www.bigbasket.com/media/uploads/p/l/40254432_1-fresho-beetroot-with-leaves-packed-with-nutrients-improves-blood-flow.jpg",
         name: "VEGETABLES PAGE",
         link: "https://radik-ha.github.io/vegetable-web/"
     },
